@@ -1,2 +1,5 @@
 *.tmp
 *.swp
+products
+routers/commentsRouter_controllers.go
+conf/app_config_custom.conf
